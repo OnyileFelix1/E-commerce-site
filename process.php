@@ -8,6 +8,7 @@
 echo "<br>";
 if(empty($user_password)){
     echo "field empty";
+    
 }
 echo "<br>";
 if(empty($user_mail)){
